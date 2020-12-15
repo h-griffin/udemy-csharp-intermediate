@@ -29,7 +29,7 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            var person = Person.Parse("John");
+            var person = Person.Parse("John"); // new person obj
             person.Introduce("Griffin");
         }
     }
