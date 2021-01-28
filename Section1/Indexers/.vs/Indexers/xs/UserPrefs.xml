@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{15C0DEF6-2028-4D33-8409-D0C2ADD5E5B7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Indexers/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Indexers/HttpCookie.cs">
     <Files>
-      <File FileName="Indexers/Program.cs" Line="19" Column="5" />
-      <File FileName="Indexers/HttpCookie.cs" Line="1" Column="1" />
+      <File FileName="Indexers/Program.cs" Line="19" Column="39" />
+      <File FileName="Indexers/HttpCookie.cs" Line="33" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Indexers" expanded="True">
             <Node name="Indexers" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="HttpCookie.cs" selected="True" />
             </Node>
           </Node>
         </State>
