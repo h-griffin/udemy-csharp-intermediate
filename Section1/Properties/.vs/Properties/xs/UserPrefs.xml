@@ -1,16 +1,14 @@
-﻿<Properties StartupConfiguration="{A8B46BC2-34BC-4106-962A-8A52D9D376B3}|Default">
-  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
+﻿<Properties StartupConfiguration="{EE676F1C-1DB5-4FFB-BD86-66540388DB46}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/Program.cs">
     <Files>
-      <File FileName="Methods/Program.cs" Line="1" Column="1" />
-      <File FileName="Methods/Calculator.cs" Line="1" Column="1" />
-      <File FileName="Methods/Point.cs" Line="21" Column="1" />
+      <File FileName="Properties/Program.cs" Line="15" Column="1" />
+      <File FileName="Properties/Person.cs" Line="18" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Methods" expanded="True">
-            <Node name="Methods" expanded="True">
+          <Node name="Properties" expanded="True">
+            <Node name="Properties" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +16,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Properties PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

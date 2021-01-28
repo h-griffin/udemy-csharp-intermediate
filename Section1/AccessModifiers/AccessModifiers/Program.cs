@@ -5,7 +5,8 @@ namespace AccessModifiers
 {
     public class Person
     {
-        private DateTime _birthdate;
+        // OOP encapsulation / information hiding 
+        private DateTime _birthdate; // cannot access outside person (_private)
 
         public void SetBirthdate(DateTime birthdate)
         {
@@ -29,3 +30,7 @@ namespace AccessModifiers
         }
     }
 }
+
+// OOP encapsulation / information hiding
+//      objects sould hide their information, provide properties for others to modify
+//      property = getter setter

@@ -1,16 +1,16 @@
-﻿<Properties StartupConfiguration="{A8B46BC2-34BC-4106-962A-8A52D9D376B3}|Default">
-  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
+﻿<Properties StartupConfiguration="{08106FB3-D15F-426D-89A8-23FD9A30443F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fields PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fields/Program.cs">
     <Files>
-      <File FileName="Methods/Program.cs" Line="1" Column="1" />
-      <File FileName="Methods/Calculator.cs" Line="1" Column="1" />
-      <File FileName="Methods/Point.cs" Line="21" Column="1" />
+      <File FileName="Fields/Program.cs" Line="22" Column="4" />
+      <File FileName="Fields/Order.cs" Line="1" Column="1" />
+      <File FileName="Fields/Customer.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Methods" expanded="True">
-            <Node name="Methods" expanded="True">
+          <Node name="Fields" expanded="True">
+            <Node name="Fields" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

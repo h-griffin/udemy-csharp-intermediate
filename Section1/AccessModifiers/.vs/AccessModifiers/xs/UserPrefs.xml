@@ -1,16 +1,13 @@
-﻿<Properties StartupConfiguration="{A8B46BC2-34BC-4106-962A-8A52D9D376B3}|Default">
-  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
+﻿<Properties StartupConfiguration="{5964A0A9-2BCA-4895-A170-C2894406BB43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccessModifiers/Program.cs">
     <Files>
-      <File FileName="Methods/Program.cs" Line="1" Column="1" />
-      <File FileName="Methods/Calculator.cs" Line="1" Column="1" />
-      <File FileName="Methods/Point.cs" Line="21" Column="1" />
+      <File FileName="AccessModifiers/Program.cs" Line="36" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Methods" expanded="True">
-            <Node name="Methods" expanded="True">
+          <Node name="AccessModifiers" expanded="True">
+            <Node name="AccessModifiers" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -24,4 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AccessModifiers PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
