@@ -13,3 +13,18 @@ namespace Indexers
         }
     }
 }
+
+// INDEXERS
+//    - indexer is property
+//    public sting this[string key] <<
+//{
+//    get {...}
+//    set {...}
+//}
+
+// cookie["name"] = "Mosh";           <<<
+// cookie.SetItem("name", "Mosh");
+//
+// var name = cookie["name"];         <<<
+// var name = cookie.GetItem("name");
+

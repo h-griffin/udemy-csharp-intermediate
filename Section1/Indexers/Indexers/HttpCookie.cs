@@ -5,7 +5,7 @@ namespace Indexers
 {
     public class HttpCookie
     {
-        private readonly Dictionary<string, string> _dictionary;
+        private readonly Dictionary<string, string> _dictionary; // dict uses hash 
         public DateTime Expiry { get; set; }
 
         public HttpCookie()
@@ -23,10 +23,13 @@ namespace Indexers
 
         }
 
+        // INDEXER
         public string this[string key]
         {
             get { return _dictionary[key]; }
             set { _dictionary[key] = value; }
         }
+
+        
     }
 }

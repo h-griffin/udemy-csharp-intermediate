@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{15C0DEF6-2028-4D33-8409-D0C2ADD5E5B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Indexers/HttpCookie.cs">
+    <Files>
+      <File FileName="Indexers/Program.cs" Line="19" Column="39" />
+      <File FileName="Indexers/HttpCookie.cs" Line="33" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Indexers" expanded="True">
+            <Node name="Indexers" expanded="True">
+              <Node name="HttpCookie.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Indexers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

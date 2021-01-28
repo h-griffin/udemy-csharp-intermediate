@@ -4,6 +4,8 @@ namespace Properties
 {
     public class Person
     {
+
+        // AUTO IMPLEMENTED PROPERTIES
         public string Name { get; set; }
         public string Username { get; set; }
         public DateTime Birthdate { get; private set; }
@@ -13,7 +15,7 @@ namespace Properties
             Birthdate = birthdate;
         }
 
-        public int Age
+        public int Age   // not auto to use logic on bday given
         {
             get
             {
@@ -25,3 +27,7 @@ namespace Properties
         }
     }
 }
+
+// Properties use Pascal case
+//      camel case is for _private
+//      - auto implemented properties, C# creates get set 
