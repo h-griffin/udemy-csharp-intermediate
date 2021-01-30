@@ -11,3 +11,11 @@ namespace Constructors
         }
     }
 }
+
+
+// base class
+//      - always executed first
+//      - constructors not inherited
+
+// vehicle constructor is not given to car
+// like a method call : base
