@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BFA7F6D6-8DAD-47FA-9151-E93B23BCE6E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/PresentationObject.cs">
+    <Files>
+      <File FileName="Inheritance/Program.cs" Line="24" Column="21" />
+      <File FileName="Inheritance/Text.cs" Line="1" Column="1" />
+      <File FileName="Inheritance/PresentationObject.cs" Line="22" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance" expanded="True">
+            <Node name="Inheritance" expanded="True">
+              <Node name="PresentationObject.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
